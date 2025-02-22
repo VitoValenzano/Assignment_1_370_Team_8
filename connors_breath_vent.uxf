@@ -199,4 +199,28 @@
     <panel_attributes/>
     <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
   </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>270</x>
+      <y>340</y>
+      <w>220</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>See connors_delivergases.uxf
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>280</x>
+      <y>450</y>
+      <w>220</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>See connors_removegases.uxf
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

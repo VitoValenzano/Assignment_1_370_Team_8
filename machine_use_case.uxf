@@ -166,4 +166,28 @@
     <panel_attributes/>
     <additional_attributes>10.0;10.0;350.0;300.0</additional_attributes>
   </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>710</x>
+      <y>530</y>
+      <w>210</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>See monitor_patient_use_case
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>710</x>
+      <y>710</y>
+      <w>240</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>See configure_machine_use_case
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>
